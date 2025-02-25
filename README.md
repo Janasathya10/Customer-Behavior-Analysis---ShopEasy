@@ -45,21 +45,15 @@ Checkout Stage: 14 customers dropped off; 6 completed purchases.
 * Campaign 7: 5648 clicks, 1103 likes
 
 **💡 Recommendations**
+✅ Simplify the checkout process (add guest checkout options).  
+✅ Improve product pages with better visuals and descriptions.  
+✅ Promote high-rated products through ads.  
+✅ Rework low-performing campaigns.  
 
-> Simplify the checkout process (add guest checkout options).
-
-> Improve product pages with better visuals and descriptions.
-
-> Promote high-rated products through ads.
-
-> Rework low-performing campaigns.
 
 **📁 Project Files**
-
 - [x] Customer_Behavior_Analysis.ipynb: Jupyter Notebook with data analysis and visualizations.
-
 - [x] Project_guvi_CBA.sql: SQL queries for database analysis.
-
 - [x] Customer Journey Analysis Results.docx: Summary of insights and recommendations.
 
 **Datasets Directory:**
